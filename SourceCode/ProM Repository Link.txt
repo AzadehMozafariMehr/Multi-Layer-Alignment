@@ -1,4 +1,4 @@
 We implemented the approach as a package named "MultiLayerAlignment" in the ProM framework.
 You can find the package in this link: https://svn.win.tue.nl/repos/prom/Packages/
 
-We provided an example of each input in the folder of Experiment0. 
+You can find an example of each input in the folder of Experiment0. 
