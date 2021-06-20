@@ -2,5 +2,5 @@ We implemented the approach as a package named "MultiLayerAlignment" in the ProM
 You can find the package in this link: https://svn.win.tue.nl/repos/prom/Packages/
 The source code required to reproduce the experiment can be found in this link: https://svn.win.tue.nl/repos/prom/Packages/MultiLayerAlignment/Tags/Version1  
 You can find an example of each input in the folder of Experiment0. 
-Replace the patch of your inputs in the main class of the plugin named "MultiLayerAlignment".
+Replace the path of your inputs in the main class of the plugin named "MultiLayerAlignment".
 Run the program directly from the main class.
